@@ -1896,34 +1896,6 @@ http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:55:64&stream=571406&extensio
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:55:64&stream=571405&extension=ts&play_token=4h5AQg9Baq
 #EXTINF:-1 group-title="Special",Redbox40
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:55:64&stream=571404&extension=ts&play_token=t51axs810w
-#EXTINF:-1 group-title="Special",SEDUCTIVE 1
-http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:55:64&stream=849938&extension=ts&play_token=fRECfoQftE
-#EXTINF:-1 group-title="Special",SEDUCTIVE 2
-http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:55:64&stream=849939&extension=ts&play_token=NlyuuCWG7H
-#EXTINF:-1 group-title="Special",SEDUCTIVE 3
-http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:55:64&stream=849942&extension=ts&play_token=OaknWQHo5F
-#EXTINF:-1 group-title="Special",SEDUCTIVE 4
-http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:55:64&stream=849944&extension=ts&play_token=5A3a2PJrps
-#EXTINF:-1 group-title="Special",SEDUCTIVE 5
-http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:55:64&stream=849945&extension=ts&play_token=EORLdwbVyt
-#EXTINF:-1 group-title="Special",SEDUCTIVE 6
-http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:55:64&stream=849946&extension=ts&play_token=bMguv9eJBC
-#EXTINF:-1 group-title="Special",SEDUCTIVE 7
-http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:55:64&stream=849949&extension=ts&play_token=vr4KnuXBFv
-#EXTINF:-1 group-title="Special",SEDUCTIVE 8
-http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:55:64&stream=849950&extension=ts&play_token=5br2G0mk13
-#EXTINF:-1 group-title="Special",SEDUCTIVE 9
-http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:55:64&stream=849965&extension=ts&play_token=zW6VrZTiMW
-#EXTINF:-1 group-title="Special",SEDUCTIVE 10
-http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:55:64&stream=850034&extension=ts&play_token=x5YEGbMRTq
-#EXTINF:-1 group-title="Special",SEDUCTIVE 11
-http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:55:64&stream=849917&extension=ts&play_token=mlvw2M7Nry
-#EXTINF:-1 group-title="Special",SEDUCTIVE 12
-http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:55:64&stream=849925&extension=ts&play_token=2uCUFs7Tja
-#EXTINF:-1 group-title="Special",SEDUCTIVE 13
-http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:55:64&stream=849932&extension=ts&play_token=NmiD5Ifwlp
-#EXTINF:-1 group-title="Special",SEDUCTIVE 14
-http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:55:64&stream=849934&extension=ts&play_token=gDOwTK2ZOx
 
 #EXTINF:-1 group-title="NovaTV",AT30
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1777375.ts
@@ -2311,62 +2283,54 @@ http://play-plus.net:80/play/live.php?mac=00:1A:79:62:A7:5B&stream=1991864&exten
 #EXTINF:-1 group-title="Beaty",Rated3
 http://play-plus.net:80/play/live.php?mac=00:1A:79:62:A7:5B&stream=1991865&extension=ts&play_token=Us0BBneRTo
 
-#EXTINF:-1 tvg-name="ADULT CHANNEL 1" group-title="ADULT",ADULT CHANNEL 1
+#EXTINF:-1 tvg-name="ADULT CHANNEL 1" group-title="Bang",ADULT CHANNEL 1
 http://wickediptv.live/live/Waddinbg/Waddinbg/317056.ts
-#EXTINF:-1 tvg-name="ADULT CHANNEL 2" group-title="ADULT",ADULT CHANNEL 2
+#EXTINF:-1 tvg-name="ADULT CHANNEL 2" group-title="Bang",ADULT CHANNEL 2
 http://wickediptv.live/live/Waddinbg/Waddinbg/317055.ts
-#EXTINF:-1 tvg-name="ADULT CHANNEL 3" group-title="ADULT",ADULT CHANNEL 3
+#EXTINF:-1 tvg-name="ADULT CHANNEL 3" group-title="Bang",ADULT CHANNEL 3
 http://wickediptv.live/live/Waddinbg/Waddinbg/317054.ts
-#EXTINF:-1 tvg-name="ADULT CHANNEL 4" group-title="ADULT",ADULT CHANNEL 4
+#EXTINF:-1 tvg-name="ADULT CHANNEL 4" group-title="Bang",ADULT CHANNEL 4
 http://wickediptv.live/live/Waddinbg/Waddinbg/317053.ts
-#EXTINF:-1 tvg-name="ADULT CHANNEL 5" group-title="ADULT",ADULT CHANNEL 5
+#EXTINF:-1 tvg-name="ADULT CHANNEL 5" group-title="Bang",ADULT CHANNEL 5
 http://wickediptv.live/live/Waddinbg/Waddinbg/317052.ts
-#EXTINF:-1 tvg-name="ADULT CHANNEL 6" group-title="ADULT",ADULT CHANNEL 6
+#EXTINF:-1 tvg-name="ADULT CHANNEL 6" group-title="Bang",ADULT CHANNEL 6
 http://wickediptv.live/live/Waddinbg/Waddinbg/317051.ts
-#EXTINF:-1 tvg-name="ADULT CHANNEL 7" group-title="ADULT",ADULT CHANNEL 7
+#EXTINF:-1 tvg-name="ADULT CHANNEL 7" group-title="Bang",ADULT CHANNEL 7
 http://wickediptv.live/live/Waddinbg/Waddinbg/317050.ts
-#EXTINF:-1 tvg-name="BALKAN EROTIC" group-title="ADULT",BALKAN EROTIC
+#EXTINF:-1 tvg-name="BALKAN EROTIC" group-title="Bang",BALKAN EROTIC
 http://wickediptv.live/live/Waddinbg/Waddinbg/317071.ts
-#EXTINF:-1 tvg-name="BLACKED 2" group-title="ADULT",BLACKED 2
+#EXTINF:-1 tvg-name="BLACKED 2" group-title="Bang",BLACKED 2
 http://wickediptv.live/live/Waddinbg/Waddinbg/324221.ts
-#EXTINF:-1 tvg-name="DOUBLE DIP" group-title="ADULT",DOUBLE DIP
+#EXTINF:-1 tvg-name="DOUBLE DIP" group-title="Bang",DOUBLE DIP
 http://wickediptv.live/live/Waddinbg/Waddinbg/324220.ts
-#EXTINF:-1 tvg-name="EMANUELLE 1" group-title="ADULT",EMANUELLE 1
+#EXTINF:-1 tvg-name="EMANUELLE 1" group-title="Bang",EMANUELLE 1
 http://wickediptv.live/live/Waddinbg/Waddinbg/317064.ts
-#EXTINF:-1 tvg-name="EXTREME" group-title="ADULT",EXTREME
+#EXTINF:-1 tvg-name="EXTREME" group-title="Bang",EXTREME
 http://wickediptv.live/live/Waddinbg/Waddinbg/317065.ts
-#EXTINF:-1 tvg-name="GIRLS GONE WILD" group-title="ADULT",GIRLS GONE WILD
+#EXTINF:-1 tvg-name="GIRLS GONE WILD" group-title="Bang",GIRLS GONE WILD
 http://wickediptv.live/live/Waddinbg/Waddinbg/324219.ts
-#EXTINF:-1 tvg-name="GIRLS GONE WILD 2" group-title="ADULT",GIRLS GONE WILD 2
+#EXTINF:-1 tvg-name="GIRLS GONE WILD 2" group-title="Bang",GIRLS GONE WILD 2
 http://wickediptv.live/live/Waddinbg/Waddinbg/324218.ts
-#EXTINF:-1 tvg-name="HUSTLER 1" group-title="ADULT",HUSTLER 1
+#EXTINF:-1 tvg-name="HUSTLER 1" group-title="Bang",HUSTLER 1
 http://wickediptv.live/live/Waddinbg/Waddinbg/317075.ts
-#EXTINF:-1 tvg-name="MIAMI TV JENNY LIVE" group-title="ADULT",MIAMI TV JENNY LIVE
-http://wickediptv.live/live/Waddinbg/Waddinbg/54610.ts
-#EXTINF:-1 tvg-name="MILF TV 1" group-title="ADULT",MILF TV 1
+#EXTINF:-1 tvg-name="MILF TV 1" group-title="Bang",MILF TV 1
 http://wickediptv.live/live/Waddinbg/Waddinbg/317067.ts
-#EXTINF:-1 tvg-name="MIXXX INTERRACIAL" group-title="ADULT",MIXXX INTERRACIAL
+#EXTINF:-1 tvg-name="MIXXX INTERRACIAL" group-title="Bang",MIXXX INTERRACIAL
 http://wickediptv.live/live/Waddinbg/Waddinbg/317062.ts
-#EXTINF:-1 tvg-name="MOFOS" group-title="ADULT",MOFOS
+#EXTINF:-1 tvg-name="MOFOS" group-title="Bang",MOFOS
 http://wickediptv.live/live/Waddinbg/Waddinbg/324217.ts
-#EXTINF:-1 tvg-name="NET XXX" group-title="ADULT",NET XXX
+#EXTINF:-1 tvg-name="NET XXX" group-title="Bang",NET XXX
 http://wickediptv.live/live/Waddinbg/Waddinbg/317070.ts
-#EXTINF:-1 tvg-name="PLAYHOUSE" group-title="ADULT",PLAYHOUSE
+#EXTINF:-1 tvg-name="PLAYHOUSE" group-title="Bang",PLAYHOUSE
 http://wickediptv.live/live/Waddinbg/Waddinbg/317069.ts
-#EXTINF:-1 tvg-name="PURE BABES" group-title="ADULT",PURE BABES
-http://wickediptv.live/live/Waddinbg/Waddinbg/317059.ts
-#EXTINF:-1 tvg-name="RED LIPS" group-title="ADULT",RED LIPS
-http://wickediptv.live/live/Waddinbg/Waddinbg/317061.ts
-#EXTINF:-1 tvg-name="RED XXX" group-title="ADULT",RED XXX
+#EXTINF:-1 tvg-name="RED XXX" group-title="Bang",RED XXX
 http://wickediptv.live/live/Waddinbg/Waddinbg/317066.ts
-#EXTINF:-1 tvg-name="SEXATION" group-title="ADULT",SEXATION
+#EXTINF:-1 tvg-name="SEXATION" group-title="Bang",SEXATION
 http://wickediptv.live/live/Waddinbg/Waddinbg/317063.ts
-#EXTINF:-1 tvg-name="THE ADULT CHANNEL" group-title="ADULT",THE ADULT CHANNEL
+#EXTINF:-1 tvg-name="THE ADULT CHANNEL" group-title="Bang",THE ADULT CHANNEL
 http://wickediptv.live/live/Waddinbg/Waddinbg/317057.ts
-#EXTINF:-1 tvg-name="ULTIMATE SURRENDER" group-title="ADULT",ULTIMATE SURRENDER
+#EXTINF:-1 tvg-name="ULTIMATE SURRENDER" group-title="Bang",ULTIMATE SURRENDER
 http://wickediptv.live/live/Waddinbg/Waddinbg/324216.ts
-#EXTINF:-1 tvg-name="X-MO" group-title="ADULT",X-MO
-http://wickediptv.live/live/Waddinbg/Waddinbg/317058.ts
 #EXTINF:-1 tvg-name="XXX TAZY" group-title="Bang",XXX TAZY
 http://wickediptv.live/live/Waddinbg/Waddinbg/317060.ts
 #EXTINF:-1 tvg-name="XY MIX 1" group-title="Bang",XY MIX 1
